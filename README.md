@@ -1,5 +1,5 @@
 # Hi there, I'm [Max Myasnikov](https://github.com/mJaJksJ) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-### Software Engineering student and .Net Core + React Developer
+### .Net Core Developer
 
 <details>
   <summary><h3>:book: About me and refs<h3></summary>
